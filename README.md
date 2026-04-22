@@ -1,4 +1,4 @@
-# Hw2 Website
+# HW2 Website
 
 ## Usage
 In order to run code, you would run cmake --build build -j, then run ./build/rt168 <scene_file> <mirror_on>.
